@@ -18,6 +18,7 @@ def h_index(n, citations):
       else:
           ans.append(h_index)
 
+          
       for i in my_list: # for removing any number less than the h_index
           if i < h_index:
               my_list.pop(my_list.index(i))
