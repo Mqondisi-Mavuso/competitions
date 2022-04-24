@@ -1,3 +1,5 @@
+# this is code from another user from the competition who answered the second question that I couldn't 
+
 def palins():
     n=0
     while True:
