@@ -50,6 +50,7 @@ while cases:
         r2 = getR2(r1, a)
         if r2:
             totalSum = getSum(totalSum, r2)
+            
         else:
             printOutput()
             break
