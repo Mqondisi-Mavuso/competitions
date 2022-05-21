@@ -11,6 +11,7 @@ def palins():
             else:
                 yield int(str(i)+str(i)[::-1])
 
+                
 for case in range(1,int(input())+1):
     p=palins()
     n=int(input())
