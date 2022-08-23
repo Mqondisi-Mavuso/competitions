@@ -23,7 +23,6 @@ while test_cases:
                 if students[i] == sorted_list[j] and students[i] == sorted_list[j+1]:
                     final_list.append(sorted_list[j])
 
-            
             else:
                 continue
 
