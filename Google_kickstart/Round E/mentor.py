@@ -27,6 +27,7 @@ while test_cases:
                 continue
 
     for final in final_list:
+        
         print(final)
 
     # print(f"Case #{case}: {suc_matrix}")
