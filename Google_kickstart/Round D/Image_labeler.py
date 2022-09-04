@@ -9,6 +9,7 @@ def success_matrix(population):
     my_list = []                     # this will store the medians
     if m == 1:
         return float(median(population))
+    
     else:
         current_max_median = 0.0
         for i in range(m - 1):              # This is for adding the maximum numbers as the median
