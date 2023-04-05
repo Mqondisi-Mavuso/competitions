@@ -32,7 +32,6 @@ def printOutput():
 
 
 case = 0
-
 while cases:
     totalSum = 0
     myList = list(map(int, input().split()))
