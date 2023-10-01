@@ -11,6 +11,7 @@ def getSum(totalSum, r):
     return theSum
 
 
+
 def getR2(r, a):
     if int(r * a) > 0:
         return int(r * a)
